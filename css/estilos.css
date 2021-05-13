@@ -1,6 +1,16 @@
 body
 {
-    color: deeppink;
+    color: blue;
     text-align: center;
     font-family: "Arial";
+}
+
+#container
+{
+	border: 1px solid #DDD;
+	width: 70%
+}
+
+#container h1 {
+	font-size: 55px
 }
