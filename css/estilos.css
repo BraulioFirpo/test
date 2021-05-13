@@ -1,12 +1,9 @@
 body
 {
-    color: brown;
 <<<<<<< HEAD
-    text-align: center;
+    color: brown;
     font-family: "Courier";
-=======
     text-align: left;
->>>>>>> cabecera
 }
 
 #container
