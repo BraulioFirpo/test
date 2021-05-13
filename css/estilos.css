@@ -1,7 +1,7 @@
 body
 {
     color: blue;
-    text-align: center;
+    text-align: left;
     font-family: "Arial";
 }
 
@@ -13,4 +13,14 @@ body
 
 #container h1 {
 	font-size: 55px
+}
+
+#cabecera {
+	background: #33a;
+	color: #FFE900;
+	text-align: left;
+	font-size: 65px;
+	border: 2px solid #FFE900;
+	width: 70%;
+	padding: 0.5em
 }
